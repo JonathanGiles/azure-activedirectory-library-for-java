@@ -39,7 +39,6 @@ import java.security.interfaces.RSAPrivateKey;
 import java.util.Enumeration;
 
 import org.apache.commons.codec.binary.Base64;
-import sun.security.util.Length;
 
 /**
  * Credential type containing X509 public certificate and RSA private key.
